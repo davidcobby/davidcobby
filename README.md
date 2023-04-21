@@ -43,6 +43,12 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
+  <img alt="PostgreSQL." src="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
   <img alt="HTML5." src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
