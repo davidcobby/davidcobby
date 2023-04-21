@@ -43,9 +43,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
-  <img alt="PostgreSQL." src="https://static.macupdate.com/products/8561/l/postgresql-logo.png?v=1660244802" width="50" height="50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50">
+  <img alt="PostgreSQL." src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50" height="50">
 </picture>
 
 <picture>
