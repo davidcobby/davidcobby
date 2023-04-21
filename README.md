@@ -87,6 +87,6 @@ I am a software developer from Viet Nam
 - 🌱 I’m currently learning and working with Java, Python.
 - 🤔 I’m looking for help with Java, Python.
 - 💬 Ask me about: I will try to answer all technical knowledge and explain it as easy as possible
-- 📫 How to reach me: Please write your problem in each project
-- 😄 Pronouns: Cobby
+- 📫 Contact to me: babycow99st@gmail.com
+- 😄 Nick name: Cobby
 - ⚡ Fun fact: What's interesting is that I'm constantly learning and updating new knowledge.
