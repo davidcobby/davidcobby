@@ -1,6 +1,6 @@
 ### Hi everybody, Khanh Thien 👋
 
-I am a software developer from Viet Nam
+👉 I am a software developer from Viet Nam 😎
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidcobby)](https://github.com/ryo-ma/github-profile-trophy)
 
