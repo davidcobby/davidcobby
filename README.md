@@ -84,9 +84,9 @@ I am a software developer from Viet Nam
   <img alt="Kubernetes." src="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png" width="50" height="50">
 </picture>
 
-- 🌱 I’m currently learning and working with Java, Python.
-- 🤔 I’m looking for help with Java, Python.
+- 🎓 I’m currently learning and working with Java, Python.
+- 🎁 I’m looking for help with Java, Python.
 - 💬 Ask me about: I will try to answer all technical knowledge and explain it as easy as possible
-- 📫 Contact to me: babycow99st@gmail.com
+- 📫 Contact to me: babycow99st@gmail.com ✨🎊🎉
 - 😄 Nick name: Cobby
 - ⚡ Fun fact: What's interesting is that I'm constantly learning and updating new knowledge.
