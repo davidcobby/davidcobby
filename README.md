@@ -43,6 +43,24 @@ I am a software developer from Viet Nam
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
+  <img alt="HTML5." src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
+  <img alt="CSS3." src="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
+  <img alt="JS." src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="50" height="50">
   <img alt="Angular." src="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="50" height="50">
@@ -65,25 +83,6 @@ I am a software developer from Viet Nam
   <source media="(prefers-color-scheme: light)" srcset="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png" width="50" height="50">
   <img alt="Kubernetes." src="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png" width="50" height="50">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
-  <img alt="HTML5." src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" width="50" height="50">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
-  <img alt="CSS3." src="https://cdn.iconscout.com/icon/free/png-256/css3-2038878-1720091.png" width="50" height="50">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
-  <img alt="JS." src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50" height="50">
-</picture>
-
 
 - 🌱 I’m currently learning and working with Java, Python.
 - 🤔 I’m looking for help with Java, Python.
