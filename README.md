@@ -16,6 +16,29 @@ Here are some ideas to get you started:
   <img alt="Python." src="https://static-00.iconduck.com/assets.00/python-icon-256x256-9529fzj3.png" width="110" height="110">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://docs.yugabyte.com/images/section_icons/develop/ecosystem/spring.png" width="110" height="110">
+  <source media="(prefers-color-scheme: light)" srcset="https://docs.yugabyte.com/images/section_icons/develop/ecosystem/spring.png" width="110" height="110">
+  <img alt="Python." src="https://docs.yugabyte.com/images/section_icons/develop/ecosystem/spring.png" width="110" height="110">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.softaculous.com/images//ampps/appimages/mysql.png" width="110" height="110">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.softaculous.com/images//ampps/appimages/mysql.png" width="110" height="110">
+  <img alt="Python." src="https://www.softaculous.com/images//ampps/appimages/mysql.png" width="110" height="110">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="110" height="110">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="110" height="110">
+  <img alt="Python." src="https://cdn.iconscout.com/icon/free/png-256/angular-2038881-1720094.png" width="110" height="110">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="110" height="110">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="110" height="110">
+  <img alt="Python." src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" width="110" height="110">
+</picture>
 
 - 🌱 I’m currently learning and working with Java, Python.
 - 🤔 I’m looking for help with Java, Python.
